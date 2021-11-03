@@ -1,4 +1,6 @@
-### Hi there 👋
+### It's me, Leo! 👋
+
+https://lucais2swag4electronics.files.wordpress.com/2014/11/914d3-pinguino.gif?w=372&h=317
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoCosta-dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
