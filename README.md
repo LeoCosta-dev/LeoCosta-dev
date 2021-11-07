@@ -1,7 +1,7 @@
 # <font color= 'greem'> It's me, Leo! 👋</font>
 
 ![Super Tux](https://lucais2swag4electronics.files.wordpress.com/2014/11/914d3-pinguino.gif?w=372&h=317)
-![Matrix](https://lh3.googleusercontent.com/proxy/M_fyZgm8bWMfCZwtR5yPkObs3wytjgXAc8xkmlWtBWdfDWGc2NewyNmFSpu7MJdSdjuWRccSRrgwzYkqGQYaBmF0vrI8dQCrTwwY9GrWklR08Mbm3SGMBT-6Bpy9s8_SASSsg78J1iHQP-EZZg)
+
 
 ## <font color = 'greem'>A little about myself:</font>
 
